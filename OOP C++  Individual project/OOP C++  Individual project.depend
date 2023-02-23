@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630508193 source:c:\users\shaggy\onedrive\desktop\oop c++  individual project\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<iomanip>
+	<fstream>
+
